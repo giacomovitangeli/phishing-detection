@@ -167,3 +167,6 @@ Thumbs.db
 
 # Email Dataset
 emails.csv
+emails_cleaned.csv
+emails_content.csv
+enron-spam/
