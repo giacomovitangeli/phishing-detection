@@ -166,7 +166,5 @@ ehthumbs.db
 Thumbs.db
 
 # Email Dataset
-emails.csv
-emails_cleaned.csv
-emails_content.csv
+phishing_site_urls.csv
 enron-spam/
