@@ -168,3 +168,6 @@ Thumbs.db
 # Email Dataset
 phishing_site_urls.csv
 enron-spam/
+
+# PKL
+*.pkl
